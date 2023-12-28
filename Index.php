@@ -34,7 +34,7 @@ include './components/navbar.php';
             </script>
 
         </div>
-        <img style="width: 40vw;" src="../images/hero.svg" alt="">
+        <img style="width: 40vw;" src="./images/hero.svg" alt="">
     </div>
     <script>
 

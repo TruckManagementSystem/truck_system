@@ -1,5 +1,5 @@
 <?php
-include '../components/navbar.php';
+include './components/navbar.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,7 +9,7 @@ include '../components/navbar.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 </head>
-
+<link rel="stylesheet" href="./css/style.css">
 <body>
     <div style="display: flex;justify-content: center;align-items: center;width: 100%;padding: 5vw;">
         <div>

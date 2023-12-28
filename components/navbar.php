@@ -1,10 +1,10 @@
-<?php
+<!-- <?php
 include 'conn.php';
 session_start();
 if(isset($_POST['logout_btn'])){
     unset($_SESSION['logined']);
 }
-?>
+?> -->
 
 <!DOCTYPE html>
 <html lang="en">
